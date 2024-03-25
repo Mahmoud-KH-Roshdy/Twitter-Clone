@@ -1,3 +1,3 @@
 # Twitter-Clone
-<P> Twiteer Clone Using HTML and TailWind </P>
-<P> live Demo:https://mahmoud2217.github.io/Twitter-Clone/</P>
+<P> Twiteer Clone Using HTML && TailWind </P>
+<P> live Demo:https://mahmoud-kh-roshdy.github.io/Twitter-Clone/</P>
